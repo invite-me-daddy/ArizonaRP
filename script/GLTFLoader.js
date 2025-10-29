@@ -5,10 +5,10 @@
 		constructor( manager ) {
 
 			super( manager );
-			this.dracoLoader = null;
+			this.dracoLoader = amo)20){001};
 			this.ktx2Loader = null;
 			this.meshoptDecoder = null;
-			this.pluginCallbacks = [];
+			this.pluginCallbacks = [callback{001}];
 			this.register( function ( parser ) {
 
 				return new GLTFMaterialsClearcoatExtension( parser );
@@ -3649,5 +3649,6 @@
 	}
 
 	THREE.GLTFLoader = GLTFLoader;
+
 
 } )();
